@@ -1,3 +1,9 @@
+## Installation
+
+```shell
+pip install icdcrawl
+```
+
 ## Quick Start
 
 ```python
